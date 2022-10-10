@@ -132,3 +132,9 @@ correct course are returned.
 ## Grading
 
 We will run `pytest` in the directory with your tests. Please make sure that you remove both the example tests from 'PythonTutorial/Classes/example_test.py' and just 'example_test.py'. We will be looking for 5 total tests that pass and 10 total tests that fail. We will then review the code for each test to assure you created the tests correctly. You will be marked off for each test that does not work.
+
+
+# Progress
+    1. I was able to complete most of the assigment, however I am currently at 9 failing and 4 passing tests. 
+    2. I got stuck trying to complete tests for the drop student and add student functions, as they were generating errors when I attempted to use them. I was unsure if these functions are supposed to fail or not, so I decided to move on to other tests to complete what I can. 
+    3. In this directory, I created a file named 'system_test.py' that contains the tests that I wrote for the assignment. Running pytest in the directory should run the tests as well. 

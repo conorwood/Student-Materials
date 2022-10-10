@@ -11,6 +11,8 @@ assignment = 'assignment1'
 profUser = 'goggins'
 profPass = 'augurrox'
 
+
+'''
 #Tests if the program can handle a wrong username
 def test_login(grading_system):
     username = 'thtrhg'
@@ -32,3 +34,4 @@ def grading_system():
     gradingSystem = System.System()
     gradingSystem.load_data()
     return gradingSystem
+'''
