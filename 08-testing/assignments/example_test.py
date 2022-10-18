@@ -1,7 +1,7 @@
 import pytest
 import System
 
-
+'''
 username = 'calyam'
 password =  '#yeet'
 username2 = 'hdjsr7'
@@ -32,3 +32,4 @@ def grading_system():
     gradingSystem = System.System()
     gradingSystem.load_data()
     return gradingSystem
+'''
